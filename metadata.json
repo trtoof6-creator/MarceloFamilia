@@ -1,0 +1,6 @@
+{
+  "name": "Marcelo - Direito de Família",
+  "description": "Landing page profissional e acolhedora de advocacia especializada em Direito de Família.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
